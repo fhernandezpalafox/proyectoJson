@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Flutter for Beginners",
+      "description": "Un libro ideal para quienes buscan empezar con Flutter. Cubre desde los conceptos básicos hasta algunos de los aspectos más avanzados, como la gestión del estado y las pruebas.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51HylLbOAJL._SX404_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "Practical Flutter",
+      "description": "Este libro es genial para desarrolladores que ya tienen algo de experiencia con Flutter y buscan ampliar sus habilidades. Cubre muchos aspectos prácticos del desarrollo de aplicaciones Flutter.",
+      "imageUrl": "https://m.media-amazon.com/images/I/41nv5tSXNDL.jpg"
+    },
+    {
+      "title": "Mastering Flutter",
+      "description": "Mastering Flutter es un libro avanzado que profundiza en detalles sobre cómo usar Flutter para crear aplicaciones altamente personalizadas y eficientes. Es mejor para aquellos que ya tienen una sólida comprensión de Flutter.",
+      "imageUrl": "https://m.media-amazon.com/images/I/41l4LfXh+8L._SX331_BO1,204,203,200_.jpg"
+    }
+  ]
+  
